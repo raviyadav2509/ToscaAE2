@@ -1,0 +1,6 @@
+B:\Program Files (x86)\TRICENTIS\Tosca Testsuite\ToscaCommander\ToscaAE2.dll
+B:\Program Files (x86)\TRICENTIS\Tosca Testsuite\ToscaCommander\ToscaAE2.pdb
+B:\VisualStudio_projects\ToscaAE2\ToscaAE2\obj\Debug\ToscaAE2.csproj.CoreCompileInputs.cache
+B:\VisualStudio_projects\ToscaAE2\ToscaAE2\obj\Debug\ToscaAE2.csproj.CopyComplete
+B:\VisualStudio_projects\ToscaAE2\ToscaAE2\obj\Debug\ToscaAE2.dll
+B:\VisualStudio_projects\ToscaAE2\ToscaAE2\obj\Debug\ToscaAE2.pdb
